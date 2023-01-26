@@ -1,0 +1,10 @@
+{
+    "attachments": [
+      {
+          "id": "1",
+          "url": "attachments/lorem-ipsum-1.pdf",
+          "content_type": "application/pdf",
+          "name": "lorem-ipsum-1.pdf"
+      }
+    ]
+  }
