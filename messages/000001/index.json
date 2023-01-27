@@ -5,6 +5,12 @@
           "url": "attachments/lorem-ipsum-1.pdf",
           "content_type": "application/pdf",
           "name": "lorem-ipsum-1.pdf"
+      },
+      {
+          "id": "2",
+          "url": "attachments/lorem-ipsum-1.pdf",
+          "content_type": "application/pdf",
+          "name": "lorem-ipsum-1.pdf"
       }
     ]
   }
