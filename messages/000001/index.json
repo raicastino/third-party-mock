@@ -8,9 +8,21 @@
       },
       {
           "id": "2",
-          "url": "attachments/lorem-ipsum-1.pdf",
+          "url": "attachments/document01.pdf",
           "content_type": "application/pdf",
-          "name": "lorem-ipsum-1.pdf"
+          "name": "document01.pdf"
+      },
+      {
+          "id": "3",
+          "url": "attachments/notAPDF.pdf",
+          "content_type": "application/pdf",
+          "name": "notAPDF.pdf"
+      },
+      {
+          "id": "4",
+          "url": "attachments/notFound.pdf",
+          "content_type": "application/pdf",
+          "name": "notFound.pdf"
       }
     ]
   }
