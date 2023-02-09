@@ -1,0 +1,46 @@
+{
+    "attachments": [
+      {
+          "id": "1",
+          "url": "attachments/Free_Test_Data_100KB_PDF.pdf",
+          "content_type": "application/pdf",
+          "name": "Free_Test_Data_100KB_PDF.pdf"
+      },    
+      {
+          "id": "2",
+          "url": "attachments/Free_Test_Data_500KB_PDF.pdf",
+          "content_type": "application/pdf",
+          "name": "Free_Test_Data_500KB_PDF.pdf"
+      },
+      {
+          "id": "3",
+          "url": "attachments/Free_Test_Data_1MB_PDF.pdf",
+          "content_type": "application/pdf",
+          "name": "Free_Test_Data_1MB_PDF.pdf"
+      },
+      {
+          "id": "4",
+          "url": "attachments/Free_Test_Data_10.5MB_PDF.pdf",
+          "content_type": "application/pdf",
+          "name": "Free_Test_Data_10.5MB_PDF.pdf"
+      },
+      {
+          "id": "5",
+          "url": "attachments/sample-11mb-pdf-file.pdf",
+          "content_type": "application/pdf",
+          "name": "sample-11mb-pdf-file.pdf"
+      },
+      {
+          "id": "6",
+          "url": "attachments/sample-64mb-pdf-file.pdf",
+          "content_type": "application/pdf",
+          "name": "sample-64mb-pdf-file.pdf"
+      },
+      {
+          "id": "7",
+          "url": "attachments/Free_Test_Data_100KB_DOC.doc",
+          "content_type": "application/pdf",
+          "name": "Invalid_100KB_DOC.doc"
+      }      
+    ]
+  }
